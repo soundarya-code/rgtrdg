@@ -1,0 +1,9 @@
+body{
+  color:white;
+  background:url("../public/images/home-background.png") center center /cover no-repeat fixed;
+
+}
+*{
+margin:0;
+padding:0;
+}
